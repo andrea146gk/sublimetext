@@ -1,2 +1,2 @@
 # sublimetext
-  <a href="https://andrea146gk.github.io/sublimetext//htmlerick.html">pagina</a>
+  <a href="https://andrea146gk.github.io/sublimetext//index.html">pagina</a>
